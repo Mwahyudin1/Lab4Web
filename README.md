@@ -91,12 +91,12 @@
 - `HTML`
 ![gambar-17][def-17]
 
-[def-17]: /iamage/ss17.png
+[def-17]: /image/ss17.png
 
 - `CSS`
 ![gambar-18][def-18]
 
-[def-18]: /iamage/ss18.png
+[def-18]: /image/ss18.png
 
 - Dan lihat hasilnya pada browser.
 ![gamabr-19][def-19]
