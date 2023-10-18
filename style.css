@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    float: left;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.box1 {
+    background-color: salmon;
+}
+
+.box2 {
+    background-color: aqua;
+}
+
+.box3 {
+    background-color: gold;
+}
+
+.box4 {
+    background-color: aquamarine;
+    float: none;
+    clear: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
