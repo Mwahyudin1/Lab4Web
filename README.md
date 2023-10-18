@@ -4,13 +4,13 @@
 ### TI.22.A1
 
 ## Langkah-langkah praktikum
-- Pertama persiapkan `VS code` terlebih dahulu lalu buat file dokumen dengan nama `lab4_box.html` ubah `Document` pada bagian tag `titile` menjadi `Box Element` seperti berikut.
+- Pertama persiapkan `VS code` terlebih dahulu lalu buat file dokumen dengan nama `lab4_box.html` ubah `Document` pada bagian tag `title` menjadi `Box Element` seperti berikut.
 ![gambar-1][def-1]
 
 [def-1]: /image/ss1.png
 
 - Lalu selanjutnya membuat `Box Element` dengan menggunakan dokumen `HTML` dan `CSS` seperti berikut.
--`HTML`
+- `HTML`
 ![gambar-2][def-2]
 
 [def-2]: /image/ss2.png
@@ -94,7 +94,7 @@
 [def-17]: /iamage/ss17.png
 
 - `CSS`
-![gambar-18]{def-18}
+![gambar-18][def-18]
 
 [def-18]: /iamage/ss18.png
 
@@ -117,7 +117,7 @@
 - `HTML`
 ![gambar-22][def-22]
 
-[def-22]: /iamge/ss22.png
+[def-22]: /image/ss22.png
 
 - `CSS`
 ![gambar-23][def-23]
