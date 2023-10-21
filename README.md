@@ -148,4 +148,43 @@
 
 [def-28]: /image/ss28.png
 
-## Pertanyaan dan Tugas
+## --Tugas--
+1. Menambahkan layout pada menu about.
+- `HTML`
+![gambar-29][def-29]
+
+[def-29]: /image/ss29.png
+
+![gambar-30][def-30]
+
+[def-30]: /image/ss30.png
+
+- `CSS`
+![gambar-31][def-31]
+
+[def-31]: /image/ss31.png
+
+![gambar-32][def-32]
+
+[def-32]: /image/ss32.png
+
+- Tampilan menu about yang saya buat.
+![gamabr-33][def-33]
+
+[def-33]: /image/ss33.png
+
+2. Menambahkan layout untuk menu kontak.
+- `HTML`
+![gamabr-34][def-34]
+
+[def-34]: /image/ss34.png
+
+- `CSS`
+![gambar-35][def-35]
+
+[def-35]: /image/ss35.png
+
+- Tampilan menu kontak.
+![gamabr-36][def-36]
+
+[def-35]: /iamge/ss36.png
