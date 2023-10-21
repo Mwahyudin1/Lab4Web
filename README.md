@@ -187,4 +187,4 @@
 - Tampilan menu kontak.
 ![gambar-36][def-36]
 
-[def-36]: /iamge/ss36.png
+[def-36]: /image/ss36.png
