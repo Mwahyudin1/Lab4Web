@@ -185,6 +185,6 @@
 [def-35]: /image/ss35.png
 
 - Tampilan menu kontak.
-![gamabr-36][def-36]
+![gambar-36][def-36]
 
 [def-35]: /iamge/ss36.png
